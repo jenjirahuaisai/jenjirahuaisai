@@ -1,0 +1,18 @@
+flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: left;
+    background-color: white;
+}
+
+.flex-container > div {
+    display: flex;
+    background-color: gray;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+}
