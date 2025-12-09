@@ -1,4 +1,4 @@
 Jenjira Huaisai
-Student ID : 
-IT Student, NHL Stenden University of Applied Sciences
-
+Student ID 5681502: 
+Information Techonology Student
+NHL Stenden University of Applied Sciences
